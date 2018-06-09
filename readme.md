@@ -1,4 +1,4 @@
-# an application for moving brick
+# An application for moving brick
 
 ### environment
     python 3.6
@@ -10,5 +10,8 @@
 
 ### run
     pipenv shell
-    python main.py {tradePlace} {dataType}
-    ex. python main.py MaxMaiCoin Tick
+    python main.py
+
+### description
+    This is an application which browse the data of coin-trading place for you.
+    you can get some advise by running it
